@@ -4,7 +4,7 @@
 
 **GitHub:** [github.com/aliyahmcrae/applied-ai-system-project](https://github.com/aliyahmcrae/applied-ai-system-project)
 
-**Demo Walkthrough (Loom):** [ADD YOUR LOOM LINK HERE]
+**Demo Walkthrough (Loom):** [Watch the walkthrough](https://www.loom.com/share/1fb4523e85ae424bbd162f0428a08b1f)
 
 ---
 
